@@ -1,0 +1,86 @@
+site_name: Comsect
+site_url: https://www.comsect.in
+site_author: Comsect®
+site_description: Comsect Website
+theme:
+  name: material
+  language: en
+  logo:  assets/comsect-logo.png
+  favicon: assets/comsect-favicon.png
+  # font:
+  #   text: Open Sans
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: light blue
+      accent: light blue
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: light blue
+      accent: light blue
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+  features:
+    - navigation.tabs
+    - content.tooltips
+
+extra_css:
+  - stylesheets/extra.css
+
+markdown_extensions:
+  - pymdownx.caret
+  - pymdownx.mark
+  - pymdownx.tilde
+  - footnotes
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - abbr
+  - attr_list
+  - md_in_html
+  - pymdownx.snippets:
+     auto_append:
+        - includes/abbreviations.md
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+extra:
+  generator: false
+  social:
+    - icon: fontawesome/brands/linkedin
+      link: https://linkedin.com/company/comsect
+      name: Comsect&reg; on LinkedIn
+    - icon: fontawesome/brands/github
+      link: https://github.com/comsect
+      name: Comsect&reg; on GitHub
+    - icon: fontawesome/brands/youtube
+      link: https://youtube.com/@comsect
+      name: Comsect&reg; on YouTube
+
+plugins:
+  - search:
+      lang: en
+  - minify:
+      minify_html: true
+  - social:
+      cards_layout_options:
+        background_color: "#06038D"
+
+nav:
+  - Home: index.md
+  - Act: act.md
+  - Products: products.md
+  - Services: services.md
+  - Learn: learn.md
+  # - Contribute: contribute.md
+  - License: license.md
+  - Careers: careers.md
+  - Store: store.md
+  - Contact: contact.md
+
+copyright: Copyright &copy 2024 <a href="https://www.github.com/comsect">Comsect<sup>&reg;</sup></a>. All rights reserved.
