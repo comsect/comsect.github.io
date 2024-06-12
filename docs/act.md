@@ -1,3 +1,7 @@
+---
+hide:
+    - navigation
+---
 ## Central Acts
 <!-- 
 ### Ministry of Commerce and Industry
