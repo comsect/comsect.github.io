@@ -1,3 +1,9 @@
+---
+hide:
+    - navigation
+    - toc
+---
+
 Hello clients 👋,
 
 We'd like to inform you that we currently do not have any service offerings. However, please rest assured that our team is diligently working on developing and refining our service offerings to better serve your needs.
