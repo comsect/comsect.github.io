@@ -1,3 +1,9 @@
+---
+hide:
+    - navigation
+    - toc
+---
+
 Hello customers 👋,
 
 We wanted to take a moment to update you on our current progress. At this time, we do not have any products available for purchase. However, we want to assure you that our team is hard at work behind the scenes, diligently developing exciting new products to bring to market.
