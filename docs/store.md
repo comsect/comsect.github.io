@@ -1,3 +1,9 @@
+---
+hide:
+    - navigation
+    - toc
+---
+
 Hello shoppers 🛍️,
 
 We greatly appreciate your interest in our merchandise! At this time, we want to inform you that we currently do not have any items available for purchase.
