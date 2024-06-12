@@ -1,3 +1,9 @@
+---
+hide:
+    - navigation
+    - toc
+---
+
 Hi there 👋,
 
 We wanted to take a moment to express our gratitude for your interest in joining our team. Your enthusiasm is truly appreciated.
