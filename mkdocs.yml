@@ -1,7 +1,7 @@
 site_name: Comsect
 site_url: https://www.comsect.in
 site_author: Comsect®
-site_description: Comsect Website
+site_description: An end-to-end company secretory management platform.
 theme:
   name: material
   language: en
