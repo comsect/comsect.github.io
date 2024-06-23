@@ -522,7 +522,7 @@ hide:
 ### Ministry of Shipping
 ### Ministry of Skill Development and Entrepreneurship -->
 
-<!-- ### Ministry of Social Justice and Empowerment
+### Ministry of Social Justice and Empowerment
 
 <div class="grid cards" markdown>
 
@@ -530,17 +530,17 @@ hide:
 
     ---
 
-    __Year:__ None
+    __Year:__ 2019
 
-    __Enactment Date:__ None
+    __Enactment Date:__ 10 January 2020
 
-    __Act Number:__ None
+    __Act Number:__ 40
 
-    __Alternate Name:__ None
+    __Alternate Name:__ Transgender Act
 
     [:octicons-arrow-right-24: Get Started](/transgender-act){:target="_blank"}
 
-</div> -->
+</div>
 
 <!-- ### Ministry of Statistics and Programme Implementation
 ### Ministry of Steel
